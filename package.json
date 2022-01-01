@@ -1,6 +1,5 @@
 {
   "name": "ltsochev-classmap",
-  "private": true,
   "version": "1.0.0",
   "description": "A small utility function that builds CSS class lists",
   "main": "index.js",
