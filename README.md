@@ -6,13 +6,13 @@ A small utility function that builds CSS class lists
 
 Using npm
 ```shell
-$ npm i classmap-utility
+$ npm i ltsochev-classmap
 ```
 
 ## Usage
 
 ```javascript
-import classMap from 'classmap-utils';
+import classMap from 'ltsochev-classmap';
 
 ...
 

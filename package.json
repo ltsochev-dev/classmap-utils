@@ -1,9 +1,11 @@
 {
   "name": "ltsochev-classmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small utility function that builds CSS class lists",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "mocha --reporter spec --require ts-node/register test/*.test.ts"
   },
   "keywords": [
